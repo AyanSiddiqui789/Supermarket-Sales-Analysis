@@ -99,3 +99,5 @@ Supermarket-Sales-Analysis/
 ├── Supermarket_Sales_Analysis.sql
 ├── Supermarket_Sales_Analysis.pbix
 └── Supermarket_Sales_Dashboard.pdf
+└──supermarket_sales.xlsx.csv
+
