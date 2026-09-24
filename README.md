@@ -97,6 +97,5 @@ Supermarket-Sales-Analysis/
 │
 ├── README.md
 ├── Supermarket_Sales_Analysis.sql
-├── supermarket_sales_analysis.ipynb
 ├── Supermarket_Sales_Analysis.pbix
 └── Supermarket_Sales_Dashboard.pdf
